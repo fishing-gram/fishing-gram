@@ -4,7 +4,7 @@
 ## 📌 문서
 
 * **[기능 명세서](https://imaginary-telephone-883.notion.site/FISHING-GRAM-bf2a7701e3c242979d5c5da059246acf)**
-* **[API 명세서](https://documenter.getpostman.com/view/4648214/TzzBpFQj#89e1f255-669f-402c-a510-96abb4defa08)**
+* **[API 명세서](https://www.postman.com/bold-meadow-243608/workspace/fishing-gram/collection/4648214-f30142a4-16c7-49ce-8028-0d03847a124d?ctx=documentation)**
 
 ## 🏗 아키텍처
 
